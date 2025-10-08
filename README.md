@@ -1,50 +1,63 @@
-<h1 align="center">👋 Selam, ben Atalay Sıdar</h1>
-<h3 align="center">Yazılım geliştirici & Simur Digital'in kurucusu</h3>
+<!-- Profil README - Atalay Sıdar -->
 
-<p align="center">
-  🚀 Dijital pazarlama, SEO ve yapay zeka destekli otomasyon sistemleri geliştiriyorum.<br>
-  💼 Geliştirdiğim projelerde modern JS teknolojileri, API entegrasyonları ve otomasyon odaklı çözümler üzerine çalışıyorum.
-</p>
+<h1 align="center">🐦‍🔥 Atalay Sıdar</h1>
+<h3 align="center">Mentör • Uluslararası SEO Danışmanı • Yazar • AI Geliştirici</h3>
 
 ---
 
-### 🧠 Hakkımda
-- 💡 **Simur Digital** bünyesinde; sosyal medya otomasyonu, SEO yönetim sistemleri ve yapay zeka tabanlı içerik üretimi üzerine çalışıyorum.  
-- ⚙️ Genellikle **Node.js**, **React**, **Next.js**, **MongoDB** ve **Python** kullanıyorum.  
-- 🎯 Amacım: firmaların dijital varlıklarını daha akıllı hale getirmek.  
-- 🧩 Şu anda üzerinde çalıştığım şey: **AI destekli sosyal medya yönetim platformu**.
+### 🌍 Hakkımda
+
+2011’den bu yana **SEO**, **yapay zekâ** ve **dijital strateji** alanlarında çalışan bir **danışman**, **mentör** ve **yazarım**.  
+Kurucusu olduğum **Simur Digital**, uluslararası SEO projelerinde **15’ten fazla dilde** hizmet veren bir dijital büyüme ajansıdır.  
+Amacım; markalara, **veriye dayalı** ve **yapay zekâ destekli** dijital çözümler sunmak.
+
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,js,ts,python,mongodb,express,tailwind,docker,git,github,vscode" />
-</p>
+### 🧠 Geliştirdiğim Projeler
+
+#### 🔹 [KAF-AI](https://kaf.simur.org)
+
+SEO süreçlerini otomatikleştiren **Yapay Zekâ Tabanlı bir SEO Aracı -  Otomasyon Sistemidir.**  
+KAF AI SEO Asistanı, sitenizi tarar, hataları bulur ve otomatik olarak düzeltir.
+
+> “SEO süreçlerini akıllandıran bir yapay zekâ.”
+
+#### 🔹 [Social-AI](https://social-ai.simur.org/)
+
+AI destekli bir **Sosyal Medya Otomasyon Platformu**dur.  
+Markaların sosyal medya hesaplarını otomatik olarak yönetir, içerikleri üretir, tasarlar ve planlar.  
+
+> “Yapay zekâ ile içerik üretimi, planlama ve paylaşım tek çatı altında.”
+
+#### 🔹 [Simur Digital](https://www.simur.org)
+
+2018 yılında kurduğum **Simur Digital**, yazılım geliştirme, yapay zekâ destekli çözümler ve dijital pazarlama alanlarında faaliyet gösteren bir **dijital performans ajansıdır**.  
+Uluslararası SEO danışmanlığı, AI tabanlı otomasyon sistemleri ve kurumsal dijital dönüşüm projeleriyle markalara global ölçekte büyüme sağlar.  
+2023 yılından bu yana **Sağlık Bilimleri Üniversitesi Teknoloji Geliştirme Bölgesi — Teknopol İstanbul**’da faaliyet göstermektedir.
+
 
 ---
 
-### 📊 GitHub İstatistikleri
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atalaysidar&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atalaysidar&layout=compact&theme=radical&hide_border=true" />
-</p>
+### ✍️ Yayınlar ve Eğitimler
+
+- 📘 **SEO101: Adım Adım SEO Uygulama** (Kitap)  
+- 🎤 **SEO ve Yapay Zeka Eğitimleri**, dijital pazarlama üzerine seminerler  
+- 🧩 SEO mentörlüğü ve danışmanlık hizmetleri  
 
 ---
 
-### 🌐 Bana Ulaş
+### 🌐 Bağlantılar
 <p align="center">
-  <a href="https://www.simur.org" target="_blank"><img src="https://img.shields.io/badge/Web%20Site-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.simur.org" target="_blank"><img src="https://img.shields.io/badge/🌐 Simur%20Digital-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/atalaysidar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:info@simur.org"><img src="https://img.shields.io/badge/E%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/atalaysidar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:info@simur.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atalaysidar&label=Profile%20Views&color=blueviolet&style=flat-square" alt="atalaysidar" />
+  ⭐️ *“Dijital Dünyada Başarıya Doğru”*  
+  <br>— <strong>Atalay Sıdar | Simur Digital</strong>
 </p>
-
----
-
-⭐️ *“Akıllı sistemler, akıllı markalar yaratır.”*  
-<p align="center">— Simur Digital 🦅</p>
