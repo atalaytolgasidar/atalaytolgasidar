@@ -58,6 +58,6 @@ Uluslararası SEO danışmanlığı, AI tabanlı otomasyon sistemleri ve kurumsa
 ---
 
 <p align="center">
-  ⭐️ *“Dijital Dünyada Başarıya Doğru”*  
+  ⭐️ *“Eğer işiniz hobinizse, mesainiz hiç bitmez...”*  
   <br>— <strong>Atalay Sıdar | Simur Digital</strong>
 </p>
